@@ -24,6 +24,15 @@
           /></a>
         </td>
       </tr>
+      <tr>
+        <td>02</td>
+        <td><a href="./wide-coverage-location/">Wide Coverage Location</a></td>
+        <td align="center">
+          <a href="https://barbaraishioka.github.io/devclub/wide-coverage-location"
+            ><img width="400px" src="./.github/../wide-coverage-location/.github/preview.png"
+          /></a>
+        </td>
+      </tr>
     </tbody>
 
   </table>
