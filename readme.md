@@ -33,6 +33,15 @@
           /></a>
         </td>
       </tr>
+      <tr>
+        <td>03</td>
+        <td><a href="./shopping-mobile/">Wide Coverage Location</a></td>
+        <td align="center">
+          <a href="https://barbaraishioka.github.io/devclub/shopping-mobile"
+            ><img width="400px" src="./.github/../shopping-mobile/.github/preview.png"
+          /></a>
+        </td>
+      </tr>
     </tbody>
 
   </table>
