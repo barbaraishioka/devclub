@@ -44,10 +44,10 @@
       <li><a href="./study-material/loop-structure/for-in.js">for in</a></li>
     </ul>
 
-  <li><a href="./study-material">Others</a></li>
+  <li><a href="./study-material/others/">Others</a></li>
     <ul>
-      <li><a href="./study-material/functions.js">Functions</a></li>
-      <li><a href="./study-material/math.js">Math</a></li>
+      <li><a href="./study-material/others/functions.js">Functions</a></li>
+      <li><a href="./study-material/others/math.js">Math</a></li>
     </ul>
 
 </ul>
